@@ -1,1 +1,16 @@
 # hdr-photos
+
+![DSC_0650](DSC_0650.avif)
+![DSC_1006](DSC_1006.avif)
+![DSC_8009](DSC_8009.avif)
+![DSC_8018-Enhanced-NR](DSC_8018-Enhanced-NR.avif)
+![DSC_1032](DSC_1032.avif)
+![DSC_5518](DSC_5518.avif)
+![DSC_0925](DSC_0925.avif)
+![DSC_8345-2](DSC_8345-2.avif)
+![DSC_9009](DSC_9009.avif)
+![DSC_9369](DSC_9369.avif)
+![DSC_9374](DSC_9374.avif)
+![Landscapes (11 of 55)](Landscapes%20%2811%20of%2055%29.avif)
+![f34321408-2](f34321408-2.avif)
+![f34321408](f34321408.avif)
